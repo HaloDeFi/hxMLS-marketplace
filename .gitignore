@@ -63,9 +63,6 @@ typings/
 # next.js build output
 .next
 
-# Built files
-dist
-
 # Indexer generated data
 indexer/build
 indexer/src/entities
